@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithHub Search</string>
+    <string name="search">Search</string>
+    <string name="no_data">No data</string>
+    <string name="check_internet_connection">Please check internet connectivity</string>
+    <string name="title_activity_repo_details">Repository Details</string>
+    <string name="discription">Discription</string>
+    <string name="subscribers">Subscribers</string>
+    <string name="project_link">Project Link</string>
+</resources>
